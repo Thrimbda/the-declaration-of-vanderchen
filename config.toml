@@ -1,7 +1,8 @@
-baseURL = "thrimbda.github.io/the-declaration-of-vanderchen"
+baseURL = ""
 languageCode = "zh-hans"
 title = "the declaration of the Van Der Chen"
 theme = "coder"
+relativeurls = true
 
 [params] # theme parameters
     author = "Van Der Chen" # Author's name.
