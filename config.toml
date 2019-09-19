@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://declaration.vanderchen.com"
 languageCode = "zh-hans"
 title = "the declaration of the Van Der Chen"
 theme = "coder"
