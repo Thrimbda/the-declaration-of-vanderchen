@@ -1,0 +1,36 @@
+baseURL = "vanderchen.com"
+languageCode = "zh-hans"
+title = "the declaration of the Van Der Chen"
+theme = "coder"
+
+[params] # theme parameters
+    author = "Van Der Chen" # Author's name.
+    info = "范·德·陈 宣言 - The declaration of the mighty Van Der Chen"
+    description = "A Friend and a Van Der Chen" # Site description.
+    keywords = "developer,personal" # Site keywords.
+    avatarurl = "/images/vanderchen.jpg"
+
+    # Whether you want to hide copyright and credits in the footer.
+    hideCredits = false
+    hideCopyright = false
+
+    # RTL support
+    rtl = false
+    footercontent = "“我不想咋”"
+
+
+# Social links
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/VanderChen/"
+
+
+[[menu.main]]
+    name = "Laws"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "Declaration"
+    weight = 2
+    url = "/about/"
