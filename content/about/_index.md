@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2019-09-19T11:43:32+08:00
-draft: true
+draft: false
 ---
 
 ## 范德陈宣言
