@@ -30,8 +30,8 @@ relativeurls = true
 [[menu.main]]
     name = "Laws"
     weight = 1
-    url  = "/posts/"
+    url  = "/posts"
 [[menu.main]]
     name = "Declaration"
     weight = 2
-    url = "/about/"
+    url = "/about"
